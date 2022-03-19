@@ -1,0 +1,110 @@
+#bar{
+    background-image:url("../img/fondo.jpg")!important ;
+    background-position: center top;
+    background-size: 100% auto;
+    height: 100px;
+}
+#portada{
+    background-image:url("../img/fondo1.jpg")!important  ;
+    background-position: center top;
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+    height: 100px;
+}
+.center{
+    display: flex;
+    align-items:center;
+    justify-content:center;        
+}
+.centerV{
+    margin-top: 20px;
+
+}
+.card {
+    margin: 0 auto; /* Added */
+    float: none; /* Added */
+    margin-bottom: 10px; /* Added */
+    margin-top: -110px;
+}   
+#pregunta{
+    background-image:url("../img/fondo2.jpg")!important  ;
+    background-position: center top;
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+    height: 400px;
+}
+#pregunta2{
+    background-image:url("../img/fondo3.jpg")!important  ;
+    background-position: center top;
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+    height: 400px;
+}
+#preguntaV{
+    padding-left: 30px;
+}
+#preguntaV2{
+    padding-left: 30px;
+    display: flex;
+    justify-content: flex-end;
+}
+.cardAlert {
+    width: 280px;
+    height: 300px;
+}
+.iconClass{
+    width: 50px;
+    height: 50px;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+#pd{
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+#pd1{
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+#dC{
+    background-color: #1589E3;
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#cardContacto{
+    width: 150px;
+    height: 150px;
+}
+#card1{
+    width: 190px;
+    height: 150px;
+    margin-top: -200px;
+    margin-left: 150px;
+} 
+#card2{
+    width: 190px;
+    height: 150px;
+    margin-top: -160px;
+    margin-left: 400px;
+} 
+#card3{
+    width: 190px;
+    height: 150px;
+    margin-top: 20px;
+    margin-left: 400px;
+} 
+#card4{
+    width: 190px;
+    height: 150px;
+    margin-top: -160px;
+    margin-left: 150px;
+} 
+#piePagina{
+    height: 300px;
+}
